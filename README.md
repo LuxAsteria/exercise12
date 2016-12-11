@@ -68,10 +68,11 @@ Because the geometric size of the point is extremely small in 2d space, to avoid
  [FOR CODE PLEASE CLICK HERE](https://github.com/LuxAsteria/exercise12/blob/master/CODE)
  
  ***
- ###Conclusion
+###Conclusion
+ 
  In this assignment, we investigate the electronic potential field, and we see that the boundry will influence the field a lot. What's more, to calculate the point's intensity field, using the function 'gradient' will be more convinent and direct.
  
- ###Acknowledge
+###Acknowledge
  
  [1]Computational Physics, Edition 2, Nicholas J.Giordano & Hisao Nakanishi
  
