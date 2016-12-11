@@ -23,7 +23,7 @@ Thus, the potential could be written as:
 
 V(i,j,k)=[V(i+1,j,k)+V(i-1,j,k)+V(i,j+1,k)+V(i,j-1,k)+V(i,j,k+1)+V(i,j,k-1)]/6
 
-When there is an electron in the space, the former equation should add a term on the right side:<img src="http://latex.codecogs.com/gif.latex?\frac{\rho\Delata(x)^2}{6}" alt="" title="" />
+When there is an electron in the space, the former equation should add a term on the right side:                                        <img src="http://latex.codecogs.com/gif.latex?\rho" alt="" title="" />(delta x)^2/6
 
 To make our calculation more accurate, we can introduce the Laplace-calculate routine, which will judge the value of the sum of delta V, and if the variance is within the range that could be tolerated, we will accept the result, otherwise we will continue the calculating loop untill the former requisite is satisfied. The other way is Gaussian-Sield method, which uses alpha times delta V every time and make the consequence converge to the real value. The coefficient alpah will change in different conditions.
 
