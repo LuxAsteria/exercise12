@@ -77,6 +77,6 @@ Because the geometric size of the point is extremely small in 2d space, to avoid
  [1]Computational Physics, Edition 2, Nicholas J.Giordano & Hisao Nakanishi
  
  
- ##PS:ALL RIGHTS RESERVED
+##PS:ALL RIGHTS RESERVED
  
  
